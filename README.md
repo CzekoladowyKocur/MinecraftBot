@@ -1,6 +1,6 @@
 # MinecraftBot ⛏️
-A minecraft mining bot made with openCV and win32 API. Currently, the bot mines a straight tunnel and avoids burning in lava. 💎 detection might be added. 
-## 🛠️ Build 🧰
+A minecraft mining bot made with openCV and win32 API. Currently, the bot mines a straight tunnel and avoids burning in lava. 
+##
 Requirements: Windows only, VS 2019 (You can downgrade by modifying the generate projects batch file). 
 To build the project, navigate to the build directory and run the setup batch file. 
 ### How it works
